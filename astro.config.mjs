@@ -10,7 +10,7 @@ export default defineConfig({
   },
   prefetch: true,
 
-  site: 'https://crnacura.github.io/PlayersClub',
+  site: 'https://playersclub.crnacura.workers.dev/',
 
   integrations: [sitemap()],
   experimental: {

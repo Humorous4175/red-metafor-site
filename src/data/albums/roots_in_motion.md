@@ -1,7 +1,7 @@
 ---
 name: 'Roots in Motion'
 image:
-  src: './images/albums/roots_in_motion.webp'
+  src: '/images/albums/roots_in_motion.webp'
   alt: "Minimalist lines forming abstract waves and geometric patterns in bold gold, green, and black, with a stylized 'K' logo inspired by Adinkra symbols."
 publishDate: 2024-09-10
 tracks:

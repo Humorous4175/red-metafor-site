@@ -3,7 +3,7 @@ name: 'Malcolm Hayes'
 stage_name: 'Mal Hayes'
 genre: 'Soul'
 image:
-  src: './images/artists/mal_hayes.webp'
+  src: '/images/artists/mal_hayes.webp'
   alt: 'Mal Hayes singing with a live band in a dimly lit jazz club'
 ---
 

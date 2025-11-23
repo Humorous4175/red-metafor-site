@@ -3,7 +3,7 @@ name: 'Wyatt Monroe'
 stage_name: 'Wale'
 genre: 'Dream Pop'
 image:
-  src: './images/artists/wale.webp'
+  src: '/images/artists/wale.webp'
   alt: 'Wale with a contemplative look, radiating ethereal charm and artistic melancholy'
 ---
 

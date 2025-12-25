@@ -9,14 +9,17 @@
 
 :root {
   font-size: 16px;
-  --color-text: #000;
-  --color-text-alt: #6a6a6a;
-  --color-faded: #c9c9c9;
-  --color-bg: #fff;
-  --border-color: #ccc;
-  --color-link: #000;
-  --color-link-hover: #999;
-  --color-placeholder: #f8f8f8;
+  /* DARK MODE COLORS */
+  --color-text: #e0e0e0;       /* Light gray text (easier on eyes than pure white) */
+  --color-text-alt: #a0a0a0;   /* Dimmer gray for secondary text */
+  --color-faded: #333333;      /* Dark gray for faded elements */
+  --color-bg: #121212;         /* Deep dark gray (standard dark mode background) */
+  --border-color: #333333;     /* Subtle border to match background */
+  --color-link: #ffffff;       /* Bright white for links to stand out */
+  --color-link-hover: #bbbbbb; /* Dimmer white on hover */
+  --color-placeholder: #1e1e1e;/* Slightly lighter than BG for placeholders */
+  
+  /* SIZING (Unchanged) */
   --font-size-s: 0.85rem;
   --font-size-l: clamp(1.25rem, 3vw, 1.75rem);
   --font-size-xl: clamp(1.5rem, 5vw, 2.75rem);
@@ -68,7 +71,7 @@ a {
 
   &:focus {
     outline: none;
-    background-color: lightgrey;
+    background-color: #333; /* Updated for dark mode visibility */
 
     &:not(:focus-visible) {
       background-color: transparent;
@@ -111,7 +114,7 @@ button {
 
   &:focus {
     outline: none;
-    background-color: lightgrey;
+    background-color: #333; /* Updated for dark mode visibility */
 
     &:not(:focus-visible) {
       background-color: transparent;

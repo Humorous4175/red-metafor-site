@@ -1,13 +1,13 @@
 ---
-title: "Demo 2025"
-artist: "Red Metafor"
-releaseDate: 2025-01-01
-cover: "/album-cover-placeholder.jpg"
+name: "Demo 2025"
+artist: "red-metafor"
+image:
+  src: "/album-cover-placeholder.jpg"
+  alt: "Demo 2025 Cover"
+publishDate: 2025-01-01
 tracks:
-  - title: "Track One"
-    duration: "3:45"
-  - title: "Track Two"
-    duration: "4:20"
+  - "Track One"
+  - "Track Two"
 ---
 
 ## About This Release

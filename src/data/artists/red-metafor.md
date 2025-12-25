@@ -1,4 +1,5 @@
 ---
+name: "Red Metafor"
 stage_name: "Red Metafor"
 genre: "Indie Rock / Post-Punk"
 image:
